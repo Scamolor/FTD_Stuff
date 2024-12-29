@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3000" height="2000" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#0c0c2f" height="2000" id="svg_6" stroke="#848422" stroke-width="0" width="3000" x="0" y="0"/>
+  <ellipse cx="500" cy="1000" fill="#777777" id="svg_4" opacity="0.5" rx="0" ry="0" stroke="#848422" stroke-width="48"/>
+  <ellipse cx="0" cy="0" fill="#ffffff" id="svg_3" rx="0" ry="2000" stroke="#848422" stroke-width="0" transform="matrix(1 0 0 1 0 0) matrix(1 0 0 1 0 0)"/>
+  <rect fill="#ffffff" height="500" id="svg_9" stroke="#848422" stroke-width="0" transform="matrix(0.866025 -0.5 0.5 0.866025 -299.038 883.975)" width="4700" x="-850" y="750"/>
+  <rect fill="#ffffff" height="500" id="svg_11" stroke="#848422" stroke-width="0" transform="rotate(30 1508.8 1004.4)" width="4700" x="-850" y="750"/>
+  <path d="m827.05,1000l672.95,-672.95l672.95,672.95l-672.95,672.95l-672.95,-672.95z" fill="#ffffff" id="svg_12" stroke="#848422" stroke-width="0" transform="matrix(1 0 0 1 0 0)"/>
+  <polygon cx="1500" cy="1000" fill="#777777" id="svg_2" orient="point" point="8" points="1500,546.6694946289062 1591.3062744140625,779.5670166015625 1820.552978515625,679.4469604492188 1720.4329833984375,908.6937255859375 1953.330322265625,1000 1720.4329833984375,1091.3062744140625 1820.552978515625,1320.552978515625 1591.3062744140625,1220.4329833984375 1500,1453.33056640625 1408.6937255859375,1220.4329833984375 1179.4468994140625,1320.552978515625 1279.5670166015625,1091.3062744140625 1046.66943359375,1000 1279.5670166015625,908.6937255859375 1179.4468994140625,679.4469604492188 1408.6937255859375,779.5670166015625 1500,546.6694946289062 1591.3062744140625,779.5670166015625 " r="604.44" r2="318.13" radialshift="0" shape="star" starRadiusMultiplier="1.9" stroke="#848422" stroke-width="48"/>
+ </g>
+</svg>
